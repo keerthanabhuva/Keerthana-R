@@ -23,6 +23,8 @@ Design Focus Areas
 
 - 🚀 Continuously learn modern UI/UX trends and design systems
 
+---
+
 📂 Design Practice & Learning
 
 - 🎯 UI screens and layouts created as part of learning and practice
