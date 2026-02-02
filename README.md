@@ -3,11 +3,12 @@
 
 ---
 
-### 🎨 Design Tools & Skills
-## UI / UX Design
+## 🎨 Design Tools & Skills
+
+### UI / UX Design
 <p align="center"> <b>Figma</b> <img src="https://skillicons.dev/icons?i=figma" width="30"/> &nbsp;&nbsp; <b>HTML5</b> <img src="https://skillicons.dev/icons?i=html" width="30"/> &nbsp;&nbsp; <b>CSS3</b> <img src="https://skillicons.dev/icons?i=css" width="30"/> </p>
 
-## Design Focus Areas
+### Design Focus Areas
 <p align="center"> <b>Wireframing</b> &nbsp;&nbsp;•&nbsp;&nbsp; <b>Prototyping</b> &nbsp;&nbsp;•&nbsp;&nbsp; <b>Visual Hierarchy</b> &nbsp;&nbsp;•&nbsp;&nbsp; <b>Responsive Design</b> &nbsp;&nbsp;•&nbsp;&nbsp; <b>User-Centered Design</b> </p>
 
 ---
