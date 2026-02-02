@@ -5,6 +5,7 @@
 🎨 Design Tools & Skills
 
 UI / UX Design
+
 <p align="center"> <img src="https://skillicons.dev/icons?i=figma" width="40"/> &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=html" width="40"/> &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=css" width="40"/> </p>
 Design Focus Areas
 <p align="center"> ✏️ Wireframing &nbsp;&nbsp;•&nbsp;&nbsp; 🧩 Prototyping &nbsp;&nbsp;•&nbsp;&nbsp; 🎯 Visual Hierarchy &nbsp;&nbsp;•&nbsp;&nbsp; 📱 Responsive Design &nbsp;&nbsp;•&nbsp;&nbsp; 👤 User-Centered Design </p>
