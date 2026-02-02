@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Keerthana 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=UI%2FUX+Design+Learner;Figma+%7C+User-Centered+Design;Clean+%26+Intuitive+Interfaces;Always+Learning+%26+Improving" /> </p> <p align="center"> 🎨 UI/UX Design Learner • Figma • User-Centered Design </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=UI%2FUX+Design+Learner;Figma+%7C+User-Centered+Design;Clean+%26+Intuitive+Interfaces;Always+Learning+%26+Improving" /> </p> 
 
 ---
 
