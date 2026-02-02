@@ -40,6 +40,6 @@ Design Focus Areas
 
 📫 Connect With Me
 
-    💼 LinkedIn: Add your LinkedIn link here
+💼 LinkedIn: linkedin.com/in/r-keerthanabhuva-
 
 ⭐ If you like my designs, feel free to star ⭐ my repositories!
