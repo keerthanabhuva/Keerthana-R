@@ -5,40 +5,41 @@ UI / UX Design
 <p align="center"> Figma <img src="https://skillicons.dev/icons?i=figma" width="30"/> &nbsp;&nbsp; HTML5 <img src="https://skillicons.dev/icons?i=html" width="30"/> &nbsp;&nbsp; CSS3 <img src="https://skillicons.dev/icons?i=css" width="30"/> </p>
 Design Focus Areas
 <p align="center"> Wireframing &nbsp;&nbsp;•&nbsp;&nbsp; Prototyping &nbsp;&nbsp;•&nbsp;&nbsp; Visual Hierarchy &nbsp;&nbsp;•&nbsp;&nbsp; Responsive Design &nbsp;&nbsp;•&nbsp;&nbsp; User-Centered Design </p>
+
 💻 What I Do
 
-🎨 Design clean and intuitive UI screens using Figma
+    🎨 Design clean and intuitive UI screens using Figma
 
-🧠 Apply UX principles to improve usability
+    🧠 Apply UX principles to improve usability
 
-📐 Create wireframes & interactive prototypes
+    📐 Create wireframes & interactive prototypes
 
-📱 Focus on responsive and user-friendly layouts
+    📱 Focus on responsive and user-friendly layouts
 
-🚀 Continuously learn modern UI/UX trends & design systems
+    🚀 Continuously learn modern UI/UX trends & design systems
 
 📂 Design Practice & Learning
 
-🎯 UI screens and layouts created as part of learning & practice
+    🎯 UI screens and layouts created as part of learning & practice
 
-🧩 Design explorations focused on usability and clarity
+    🧩 Design explorations focused on usability and clarity
 
-📘 Improving skills through hands-on design challenges
+    📘 Improving skills through hands-on design challenges
 
 (More designs coming soon as I continue learning)
 
 🎯 Currently
 
-🌱 Learning UI/UX fundamentals & Figma
+    🌱 Learning UI/UX fundamentals & Figma
 
-🎨 Improving design thinking & usability skills
+    🎨 Improving design thinking & usability skills
 
-🚀 Exploring real-world design problems
+    🚀 Exploring real-world design problems
 
-🤝 Open to internships / entry-level UI/UX opportunities
+    🤝 Open to internships / entry-level UI/UX opportunities
 
 📫 Connect With Me
 
-💼 LinkedIn: Add your LinkedIn link here
+    💼 LinkedIn: Add your LinkedIn link here
 
 ⭐ If you like my designs, feel free to star ⭐ my repositories!
